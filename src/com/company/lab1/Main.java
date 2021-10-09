@@ -37,18 +37,16 @@ public class Main {
             sum = sum + array[counter];
             counter++;
         }
-        System.out.println("Сумма массива через While" + sum);
+        System.out.println("Сумма массива через While " + sum);
 
 
-//        sum = 0;
-//        counter = 0;
-//        do {
-//            System.out.println("Блок do");
-//        } while (counter != array.length){
-//            sum = sum + array[counter];
-//            counter++;
-//        }
-//        System.out.println("Сумма массива через Do while" + sum);
+        sum = 0;
+        counter = 0;
+        do {
+            sum = sum + array[counter];
+            counter++;
+        } while (counter != array.length);
+        System.out.println("Сумма массива через Do while " + sum);
 
     }
 

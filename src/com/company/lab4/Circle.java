@@ -24,11 +24,11 @@ public class Circle extends Shape {
         this.radius = radius;
     }
 
-    @Override
-    public double getArea(){}
-
-    @Override
-    public double getPerimeter(){}
+//    @Override
+//    public double getArea(){}
+//
+//    @Override
+//    public double getPerimeter(){}
 
     @Override
     public String toString() {

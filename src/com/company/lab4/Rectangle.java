@@ -34,11 +34,11 @@ public class Rectangle extends Shape{
         this.length = length;
     }
 
-    @Override
-    public double getArea(){}
-
-    @Override
-    public double getPerimeter(){}
+//    @Override
+//    public double getArea(){}
+//
+//    @Override
+//    public double getPerimeter(){}
 
     @Override
     public String toString() {

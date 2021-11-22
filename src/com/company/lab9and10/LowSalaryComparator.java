@@ -2,9 +2,9 @@ package com.company.lab9and10;
 
 import java.util.Comparator;
 
-public class TopSalaryComparator implements Comparator<Employee> {
+public class LowSalaryComparator implements Comparator<Employee> {
     @Override
     public int compare(Employee o1, Employee o2) {
-        return (int) (o2.salary - o1.salary);
+        return (int) (o1.salary - o2.salary);
     }
 }

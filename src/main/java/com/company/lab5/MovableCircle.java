@@ -1,6 +1,6 @@
 package com.company.lab5;
 
-import com.company.lab6.MovablePoint;
+import com.company.lab5.MovablePoint;
 
 public class MovableCircle implements Movable {
 

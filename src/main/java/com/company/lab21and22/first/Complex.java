@@ -1,4 +1,4 @@
-package com.company.lab19and20.first;
+package com.company.lab21and22.first;
 
 public class Complex {
     int real;

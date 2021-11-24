@@ -1,4 +1,4 @@
-package com.company.lab19and20.third;
+package com.company.lab21and22.third;
 
 public class TextDocument implements IDocument{
 }

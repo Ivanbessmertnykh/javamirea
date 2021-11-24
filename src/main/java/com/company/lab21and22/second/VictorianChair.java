@@ -1,4 +1,4 @@
-package com.company.lab19and20.second;
+package com.company.lab21and22.second;
 
 public class VictorianChair implements Chair{
 }
